@@ -5,13 +5,8 @@ from selenium.webdriver.common.keys import Keys
 
 
 # settings
-USERNAME = "kittensflorida@gmail.com"
-
-PASSWORD = "davidneedsthis"
 
 TIME_BETWEEN_POSTS = 60
-
-FOLDER_PATH = "D:\\Cat Posts\\GoKitty\\"
 
 
 
